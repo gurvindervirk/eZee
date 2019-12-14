@@ -1,0 +1,311 @@
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\mydata.mdf
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\mydata_log.ldf
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.exe.config
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.exe
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.pdb
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.xml
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\ResolveAssemblyReference.cache
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.advances_entry.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.advance_transfer_detail.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.amountwise.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bikribook.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.billprinting_report.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Bills_report.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.billtransfer.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bill_transfer.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bill_transfer_detail.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Bookentry.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.booklist.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bookwiselist.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cashrecipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cash_transfer_detail.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Changepassword.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.change_cname.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Change_crate_name.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Change_session.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedlist.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedlist_crate.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedsummarycrate.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cratebills.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateledger.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateledgermarkawise.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateoutstanding.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_creation.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_issue.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_list.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crate_receipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.createfinacialyear.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.createpassword.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Customer_Entry.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customerledger1.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Customerwise.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customer_entry_form.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cust_bill_setup.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Daily_Bikri_Report.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Daily_Cash_Recipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.date_locking.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.company.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.list_cust_bill_setup.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.login.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.loginvega.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.MDIParent1.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Mergebikrilist.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.merge_customer.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modifybikri.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modifybook.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modifycrate.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_advances.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_cash_receipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_company.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modify_cust_bill_setup.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_vegetable.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Monthlyconsolidatedreport.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Resources.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.openingbalanceadd_crate.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Outstanding.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Searchitem.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.systemsetup.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.transfer_advances.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.trans_cust.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.unlockdate.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Vegetablesentry.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Yearlyconsolidatedreport.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.vbproj.GenerateResource.Cache
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.exe
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.xml
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.pdb
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customer_opening_balance.resources
+E:\shaktifruitcompany(new)\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.printing12rows.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.exe.config
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.exe
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.xml
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.pdb
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\mydata.mdf
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\mydata_log.ldf
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.exe
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.pdb
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.xml
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\ResolveAssemblyReference.cache
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.advances_entry.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.advance_transfer_detail.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.amountwise.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bikribook.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.billprinting_report.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Bills_report.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.billtransfer.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bill_transfer.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bill_transfer_detail.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Bookentry.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.booklist.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bookwiselist.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cashrecipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cash_transfer_detail.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Changepassword.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.change_cname.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Change_crate_name.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Change_session.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedlist.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedlist_crate.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedsummarycrate.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cratebills.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateledger.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateledgermarkawise.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateoutstanding.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_creation.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_issue.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_list.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crate_receipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.createfinacialyear.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.createpassword.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Customer_Entry.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customerledger1.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Customerwise.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customer_entry_form.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customer_opening_balance.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cust_bill_setup.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Daily_Bikri_Report.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Daily_Cash_Recipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.date_locking.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.company.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.list_cust_bill_setup.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.login.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.loginvega.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.MDIParent1.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Mergebikrilist.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.merge_customer.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modifybikri.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modifybook.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modifycrate.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_advances.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_cash_receipt.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_company.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modify_cust_bill_setup.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_vegetable.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Monthlyconsolidatedreport.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Resources.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.openingbalanceadd_crate.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Outstanding.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.printing12rows.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Searchitem.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.systemsetup.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.transfer_advances.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.trans_cust.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.unlockdate.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Vegetablesentry.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Yearlyconsolidatedreport.resources
+E:\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.vbproj.GenerateResource.Cache
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\mydata.mdf
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\mydata_log.ldf
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.exe.config
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.exe
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.pdb
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\vega.xml
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\CrystalDecisions.Shared.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\bin\Debug\log4net.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.vbprojAssemblyReference.cache
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CRReportPromptEMFLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CrystalReportsDTSAgentLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CrystalReportsLocalConnectionMgrLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.EMFGENLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\Interop.VLELib.dll
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.vbproj.ResolveComReference.cache
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.advances_entry.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.advance_transfer_detail.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.amountwise.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bikribook.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.billprinting_report.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Bills_report.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.billtransfer.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bill_transfer.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bill_transfer_detail.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Bookentry.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.booklist.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.bookwiselist.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cashrecipt.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cash_transfer_detail.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Changepassword.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.change_cname.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Change_crate_name.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Change_session.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedlist.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedlist_crate.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.consolidatedsummarycrate.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cratebills.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateledger.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateledgermarkawise.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crateoutstanding.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_creation.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_issue.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Crate_list.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.crate_receipt.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.createfinacialyear.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.createpassword.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Customer_Entry.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customerledger1.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Customerwise.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customer_entry_form.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.customer_opening_balance.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.cust_bill_setup.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Daily_Bikri_Report.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Daily_Cash_Recipt.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.date_locking.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.company.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.list_cust_bill_setup.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Login.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.loginvega.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.MDIParent1.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Mergebikrilist.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.merge_customer.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modifybikri.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modifybook.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modifycrate.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_advances.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_cash_receipt.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_company.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Modify_cust_bill_setup.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.modify_vegetable.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Monthlyconsolidatedreport.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Resources.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.openingbalanceadd_crate.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Outstanding.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.printing12rows.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Searchitem.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.systemsetup.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.transfer_advances.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.trans_cust.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.unlockdate.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Vegetablesentry.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\WindowsApplication1.Yearlyconsolidatedreport.resources
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.vbproj.GenerateResource.cache
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.vbproj.CoreCompileInputs.cache
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.vbproj.CopyComplete
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.exe
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.xml
+C:\Local Disk D_5220191348\Local Disk E_522019133\shaktifruitcompany(new)\shaktifruitco1\shaktifruitco\Mandinewver(GNC)\mandinewver\obj\Debug\vega.pdb

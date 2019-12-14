@@ -1,0 +1,2151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+vega
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1.printingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1.printingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1.printingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1TableAdapters.printingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.accountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.accountgroupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.arhat_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.bikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.bookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.companyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.crateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.crateledgerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.cust_bill_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.dummy_outstandingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.invoice_voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.lockedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.mergebikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.securityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.session_selectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.softwaredateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.surrenderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_advanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_billsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_cashDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.vegetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.accountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.accountgroupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.arhat_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.bikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.bookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.companyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.crateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.crateledgerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.cust_bill_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.dummy_outstandingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.invoice_voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.lockedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.mergebikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.securityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.session_selectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.softwaredateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.surrenderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_advanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_billsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_cashRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.vegetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.accountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.accountgroupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.arhat_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.bikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.bookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.companyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.crateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.crateledgerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.cust_bill_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.dummy_outstandingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.invoice_voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.lockedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.mergebikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.securityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.session_selectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.softwaredateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.surrenderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_advanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_billsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.transfer_cashRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.vegetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet.voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.accountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.accountgroupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.arhat_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.bikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.bookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.companyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.crateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.crateledgerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.cust_bill_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.dummy_outstandingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.invoice_voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.lockedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.mergebikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.securityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.session_selectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.softwaredateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.surrenderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.transfer_advanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.transfer_billsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.transfer_cashTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.vegetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.mydataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.mydataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.mydataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.mydataDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.accountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.accountgroupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.arhat_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.bikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.bookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.companyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.crateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.crateledgerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.cust_bill_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.dummy_outstandingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.invoice_voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.lockedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.mergebikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.securityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.session_selectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.softwaredateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.surrenderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_advanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_billsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_cashDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.vegetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.accountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.accountgroupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.arhat_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.bikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.bookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.companyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.crateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.crateledgerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.cust_bill_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.dummy_outstandingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.invoice_voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.lockedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.mergebikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.securityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.session_selectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.softwaredateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.surrenderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_advanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_billsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_cashRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.vegetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.accountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.accountgroupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.arhat_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.bikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.bookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.companyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.crateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.crateledgerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.cust_bill_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.dummy_outstandingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.invoice_voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.lockedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.mergebikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.securityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.session_selectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.softwaredateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.surrenderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_advanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_billsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.transfer_cashRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.vegetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1.voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.accountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.accountgroupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.arhat_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.bikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.bookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.companyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.crateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.crateledgerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.cust_bill_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.dummy_outstandingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.invoice_voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.lockedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.mergebikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.securityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.session_selectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.softwaredateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.surrenderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.transfer_advanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.transfer_billsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.transfer_cashTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.vegetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.mydataDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.mydataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.mydataDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.mydataDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.accountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.accountgroupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.arhat_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.bikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.bookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.companyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.crateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.crateledgerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.cust_bill_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.dummy_outstandingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.invoice_voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.lockedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.mergebikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.printingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.securityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.session_selectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.softwaredateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.surrenderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_advanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_billsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_cashDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.vegetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.accountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.accountgroupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.arhat_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.bikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.bookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.companyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.crateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.crateledgerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.cust_bill_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.dummy_outstandingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.invoice_voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.lockedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.mergebikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.printingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.securityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.session_selectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.softwaredateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.surrenderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_advanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_billsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_cashRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.vegetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.accountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.accountgroupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.arhat_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.bikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.bookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.companyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.crateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.crateledgerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.cust_bill_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.dummy_outstandingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.invoice_voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.lockedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.mergebikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.printingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.securityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.session_selectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.softwaredateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.surrenderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_advanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_billsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.transfer_cashRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.vegetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2.voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.accountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.accountgroupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.arhat_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.bikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.bookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.companyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.crateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.crateledgerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.cust_bill_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.dummy_outstandingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.invoice_voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.lockedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.mergebikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.printingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.securityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.session_selectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.softwaredateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.surrenderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.transfer_advanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.transfer_billsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.transfer_cashTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.vegetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.mydataDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.mydataDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.mydataDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.mydataDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.accountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.accountgroupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.arhat_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.bikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.bookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.companyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.crateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.crateledgerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.cust_bill_setupDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.dummy_outstandingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.invoice_voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.lockedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.mergebikriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.printingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.securityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.session_selectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.softwaredateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.surrenderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_advanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_billsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_cashDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.vegetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.voucherDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.accountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.accountgroupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.arhat_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.bikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.bookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.companyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.crateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.crateledgerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.cust_bill_setupRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.dummy_outstandingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.invoice_voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.lockedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.mergebikriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.printingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.securityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.session_selectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.softwaredateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.surrenderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_advanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_billsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_cashRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.vegetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.voucherRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.accountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.accountgroupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.arhat_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.bikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.bookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.companyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.crateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.crateledgerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.cust_bill_setupRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.dummy_outstandingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.invoice_voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.lockedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.mergebikriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.printingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.securityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.session_selectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.softwaredateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.surrenderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_advanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_billsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.transfer_cashRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.vegetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3.voucherRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.accountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.accountgroupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.arhat_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.bikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.bookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.companyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.crateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.crateledgerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.cust_bill_setupTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.dummy_outstandingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.invoice_voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.lockedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.mergebikriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.printingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.securityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.session_selectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.softwaredateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.surrenderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.transfer_advanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.transfer_billsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.transfer_cashTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.vegetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.voucherTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1.mydataDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1.mydataDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1.mydataDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1.mydataDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1.mydataDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

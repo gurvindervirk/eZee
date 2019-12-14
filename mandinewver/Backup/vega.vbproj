@@ -1,0 +1,989 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{75666309-A84F-44CC-9AF1-04D83284A2CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.login</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>vega</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>MARG.ICO</ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>vega.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>vega.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.VSDesigner, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System">
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="advances.Designer.vb">
+      <DependentUpon>advances.vb</DependentUpon>
+    </Compile>
+    <Compile Include="advances.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="advance_transfer_detail.Designer.vb">
+      <DependentUpon>advance_transfer_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="advance_transfer_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amountwise.Designer.vb">
+      <DependentUpon>Amountwise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Amountwise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="bikribook.Designer.vb">
+      <DependentUpon>bikribook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bikribook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="billprinting_report.Designer.vb">
+      <DependentUpon>billprinting_report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="billprinting_report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bills.Designer.vb">
+      <DependentUpon>Bills.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bills.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="billtransfer.Designer.vb">
+      <DependentUpon>billtransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="billtransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bill_printing_report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bill_printing_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bill_printing_report12.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bill_printing_report12.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bill_transfer.Designer.vb">
+      <DependentUpon>bill_transfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bill_transfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bill_transfer_detail.Designer.vb">
+      <DependentUpon>bill_transfer_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bill_transfer_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bookentry.Designer.vb">
+      <DependentUpon>Bookentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bookentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="booklist.Designer.vb">
+      <DependentUpon>booklist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="booklist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bookwiselist.Designer.vb">
+      <DependentUpon>bookwiselist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="bookwiselist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashrecipt.Designer.vb">
+      <DependentUpon>cashrecipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cashrecipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cash_transfer_detail.Designer.vb">
+      <DependentUpon>cash_transfer_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cash_transfer_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Changepassword.Designer.vb">
+      <DependentUpon>Changepassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Changepassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="change_cname.Designer.vb">
+      <DependentUpon>change_cname.vb</DependentUpon>
+    </Compile>
+    <Compile Include="change_cname.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_crate_name.Designer.vb">
+      <DependentUpon>Change_crate_name.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Change_crate_name.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_session.Designer.vb">
+      <DependentUpon>Change_session.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Change_session.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consolidatedlist.Designer.vb">
+      <DependentUpon>consolidatedlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="consolidatedlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consolidatedlist_crate.Designer.vb">
+      <DependentUpon>consolidatedlist_crate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="consolidatedlist_crate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consolidatedsummarycrate.Designer.vb">
+      <DependentUpon>consolidatedsummarycrate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="consolidatedsummarycrate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cratebills.Designer.vb">
+      <DependentUpon>cratebills.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cratebills.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crateledger.Designer.vb">
+      <DependentUpon>crateledger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="crateledger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crateledgermarkawise.Designer.vb">
+      <DependentUpon>crateledgermarkawise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="crateledgermarkawise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crateoutstanding.Designer.vb">
+      <DependentUpon>crateoutstanding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="crateoutstanding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crate_creation.Designer.vb">
+      <DependentUpon>Crate_creation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Crate_creation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crate_issue.Designer.vb">
+      <DependentUpon>Crate_issue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Crate_issue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crate_list.Designer.vb">
+      <DependentUpon>Crate_list.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Crate_list.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crate_receipt.Designer.vb">
+      <DependentUpon>crate_receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="crate_receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createfinacialyear.Designer.vb">
+      <DependentUpon>createfinacialyear.vb</DependentUpon>
+    </Compile>
+    <Compile Include="createfinacialyear.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createpassword.Designer.vb">
+      <DependentUpon>createpassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="createpassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Entry.designer.vb">
+      <DependentUpon>Customer Entry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customerledger1.Designer.vb">
+      <DependentUpon>customerledger1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customerledger1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customerwise.Designer.vb">
+      <DependentUpon>Customerwise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customerwise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_add.Designer.vb">
+      <DependentUpon>customer_add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_opening_balance.Designer.vb">
+      <DependentUpon>customer_opening_balance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer_opening_balance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cust_bill_setup.Designer.vb">
+      <DependentUpon>cust_bill_setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cust_bill_setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daily Bikri Report.Designer.vb">
+      <DependentUpon>Daily Bikri Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Daily Bikri Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daily Cash Recipt.Designer.vb">
+      <DependentUpon>Daily Cash Recipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Daily Cash Recipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="date_locking.Designer.vb">
+      <DependentUpon>date_locking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="date_locking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list_cust_bill_setup.Designer.vb">
+      <DependentUpon>list_cust_bill_setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="list_cust_bill_setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginvega.Designer.vb">
+      <DependentUpon>loginvega.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loginvega.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mergebikrilist.Designer.vb">
+      <DependentUpon>Mergebikrilist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mergebikrilist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="merge_customer.Designer.vb">
+      <DependentUpon>merge_customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="merge_customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modifybikri.Designer.vb">
+      <DependentUpon>Modifybikri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modifybikri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifybook.Designer.vb">
+      <DependentUpon>modifybook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modifybook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modifycrate.Designer.vb">
+      <DependentUpon>Modifycrate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modifycrate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modify_advances.Designer.vb">
+      <DependentUpon>modify_advances.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modify_advances.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modify_cash_receipt.Designer.vb">
+      <DependentUpon>modify_cash_receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modify_cash_receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modify_company.Designer.vb">
+      <DependentUpon>modify_company.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modify_company.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_cust_bill_setup.Designer.vb">
+      <DependentUpon>Modify_cust_bill_setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_cust_bill_setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modify_vegetable.Designer.vb">
+      <DependentUpon>modify_vegetable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modify_vegetable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monthlyconsolidatedreport.designer.vb">
+      <DependentUpon>Monthlyconsolidatedreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Monthlyconsolidatedreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="mydataDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mydataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="mydataDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mydataDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="mydataDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mydataDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="mydataDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mydataDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="openingbalanceadd_crate.Designer.vb">
+      <DependentUpon>openingbalanceadd_crate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="openingbalanceadd_crate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outstanding.Designer.vb">
+      <DependentUpon>outstanding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="outstanding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="predefined.vb" />
+    <Compile Include="printing12rows.Designer.vb">
+      <DependentUpon>printing12rows.vb</DependentUpon>
+    </Compile>
+    <Compile Include="printing12rows.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Searchitem.Designer.vb">
+      <DependentUpon>Searchitem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Searchitem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="systemsetup.Designer.vb">
+      <DependentUpon>systemsetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="systemsetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transfer_advances.Designer.vb">
+      <DependentUpon>transfer_advances.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transfer_advances.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trans_cust.Designer.vb">
+      <DependentUpon>trans_cust.vb</DependentUpon>
+    </Compile>
+    <Compile Include="trans_cust.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="unlockdate.Designer.vb">
+      <DependentUpon>unlockdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="unlockdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vegetablesentry.Designer.vb">
+      <DependentUpon>Vegetablesentry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vegetablesentry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yearlyconsolidatedreport.designer.vb">
+      <DependentUpon>Yearlyconsolidatedreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Yearlyconsolidatedreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Reference Include="DeployLX.Licensing.Nlm.v5">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\XHEO\DeployLX\v5.0\Redistributable\.NET 2.0\Any CPU\DeployLX.Licensing.Nlm.v5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="advances.resx">
+      <DependentUpon>advances.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="advance_transfer_detail.resx">
+      <DependentUpon>advance_transfer_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amountwise.resx">
+      <DependentUpon>Amountwise.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bikribook.resx">
+      <DependentUpon>bikribook.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="billprinting_report.resx">
+      <DependentUpon>billprinting_report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bills.resx">
+      <DependentUpon>Bills.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="billtransfer.resx">
+      <DependentUpon>billtransfer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bill_printing_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>bill_printing_report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bill_printing_report12.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>bill_printing_report12.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bill_transfer.resx">
+      <DependentUpon>bill_transfer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bill_transfer_detail.resx">
+      <DependentUpon>bill_transfer_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bookentry.resx">
+      <DependentUpon>Bookentry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="booklist.resx">
+      <DependentUpon>booklist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bookwiselist.resx">
+      <DependentUpon>bookwiselist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashrecipt.resx">
+      <DependentUpon>cashrecipt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cash_transfer_detail.resx">
+      <DependentUpon>cash_transfer_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Changepassword.resx">
+      <DependentUpon>Changepassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="change_cname.resx">
+      <DependentUpon>change_cname.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_crate_name.resx">
+      <DependentUpon>Change_crate_name.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_session.resx">
+      <DependentUpon>Change_session.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consolidatedlist.resx">
+      <DependentUpon>consolidatedlist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consolidatedlist_crate.resx">
+      <DependentUpon>consolidatedlist_crate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consolidatedsummarycrate.resx">
+      <DependentUpon>consolidatedsummarycrate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cratebills.resx">
+      <DependentUpon>cratebills.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crateledger.resx">
+      <DependentUpon>crateledger.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crateledgermarkawise.resx">
+      <DependentUpon>crateledgermarkawise.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crateoutstanding.resx">
+      <DependentUpon>crateoutstanding.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crate_creation.resx">
+      <DependentUpon>Crate_creation.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crate_issue.resx">
+      <DependentUpon>Crate_issue.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crate_list.resx">
+      <DependentUpon>Crate_list.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crate_receipt.resx">
+      <DependentUpon>crate_receipt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createfinacialyear.resx">
+      <DependentUpon>createfinacialyear.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createpassword.resx">
+      <DependentUpon>createpassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Entry.resx">
+      <DependentUpon>Customer Entry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customerledger1.resx">
+      <DependentUpon>customerledger1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customerwise.resx">
+      <DependentUpon>Customerwise.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_add.resx">
+      <DependentUpon>customer_add.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_opening_balance.resx">
+      <DependentUpon>customer_opening_balance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cust_bill_setup.resx">
+      <DependentUpon>cust_bill_setup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daily Bikri Report.resx">
+      <DependentUpon>Daily Bikri Report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daily Cash Recipt.resx">
+      <DependentUpon>Daily Cash Recipt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="date_locking.resx">
+      <DependentUpon>date_locking.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list_cust_bill_setup.resx">
+      <DependentUpon>list_cust_bill_setup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginvega.resx">
+      <DependentUpon>loginvega.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mergebikrilist.resx">
+      <DependentUpon>Mergebikrilist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="merge_customer.resx">
+      <DependentUpon>merge_customer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modifybikri.resx">
+      <DependentUpon>Modifybikri.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifybook.resx">
+      <DependentUpon>modifybook.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modifycrate.resx">
+      <DependentUpon>Modifycrate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modify_advances.resx">
+      <DependentUpon>modify_advances.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modify_cash_receipt.resx">
+      <DependentUpon>modify_cash_receipt.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modify_company.resx">
+      <DependentUpon>modify_company.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_cust_bill_setup.resx">
+      <DependentUpon>Modify_cust_bill_setup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modify_vegetable.resx">
+      <DependentUpon>modify_vegetable.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monthlyconsolidatedreport.resx">
+      <DependentUpon>Monthlyconsolidatedreport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="openingbalanceadd_crate.resx">
+      <DependentUpon>openingbalanceadd_crate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outstanding.resx">
+      <DependentUpon>outstanding.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printing12rows.resx">
+      <DependentUpon>printing12rows.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Searchitem.resx">
+      <DependentUpon>Searchitem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="systemsetup.resx">
+      <DependentUpon>systemsetup.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transfer_advances.resx">
+      <DependentUpon>transfer_advances.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trans_cust.resx">
+      <DependentUpon>trans_cust.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="unlockdate.resx">
+      <DependentUpon>unlockdate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vegetablesentry.resx">
+      <DependentUpon>Vegetablesentry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yearlyconsolidatedreport.resx">
+      <DependentUpon>Yearlyconsolidatedreport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ContentBackground-880x820.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solusions.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VegaLogo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="mydataDataSet.xsc">
+      <DependentUpon>mydataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="mydataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mydataDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mydataDataSet.xss">
+      <DependentUpon>mydataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="mydataDataSet1.xsc">
+      <DependentUpon>mydataDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="mydataDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mydataDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mydataDataSet1.xss">
+      <DependentUpon>mydataDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="mydataDataSet2.xsc">
+      <DependentUpon>mydataDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="mydataDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mydataDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mydataDataSet2.xss">
+      <DependentUpon>mydataDataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MARG.ICO" />
+    <Content Include="mydata.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="mydata_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>mydata.mdf</DependentUpon>
+    </Content>
+    <None Include="mydataDataSet3.xsc">
+      <DependentUpon>mydataDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="mydataDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mydataDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mydataDataSet3.xss">
+      <DependentUpon>mydataDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\1340x780.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="DeployLXKeys.vb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="_LicenseHelper.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="runtime.lic">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
